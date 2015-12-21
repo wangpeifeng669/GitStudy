@@ -1,3 +1,3 @@
 # GitStudy
-Test the git operate.
+Test the git operate.  
 Second person!
