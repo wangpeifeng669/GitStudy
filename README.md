@@ -1,3 +1,4 @@
 # GitStudy
 Test the git operate.  
-Second person!
+Second person!  
+Add second person!  
